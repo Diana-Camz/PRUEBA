@@ -1,8 +1,19 @@
-h1{
+h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 700;
   color: blueviolet;
   border: solid 2px;
   background-color: beige;
   text-align: center;
+}
+
+.parrafo {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: darkblue;
+border: solid 5px;
+border-radius: 10px;
+}
+
+.parrafo-2 {
+ color: white; 
 }
